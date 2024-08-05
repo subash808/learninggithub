@@ -1,1 +1,2 @@
 creates the sample3.txt file
+another line i typed
